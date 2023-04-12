@@ -5,10 +5,9 @@
 }
 
 .container{
-    height: 800px;
     display:grid;
     grid-template-columns: 2fr 5fr 2fr;
-    grid-template-rows: 5fr 20fr 5fr;
+    grid-template-rows: 1fr 20fr 1fr;
     grid-gap: 10px;
     background-color: rgba(60, 108, 139, 0.61);
     background-size: cover;
